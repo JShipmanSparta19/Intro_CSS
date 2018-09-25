@@ -1,0 +1,23 @@
+body{
+  background-color: #a3d1ab;
+  text-align: center;
+}
+h1{
+  color: blue;
+}
+p{
+  font-size: 18px;
+  font-family:sans-serif;
+}
+ul{
+  display: inline-block;
+  text-align: left;
+  list-style-position: inside;
+}
+.post-list{
+  font-family:cursive;
+  color: red;
+}
+p.post-list{
+  background-color: yellow;
+}
